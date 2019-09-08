@@ -1,6 +1,6 @@
 ## Hi
 <p style="font-size:11px">I am a I'm a Ph.D. candidate at the University of Washington, Seattle, studying <a href="https://www.hcde.washington.edu/">Human Centered Design and Engineering</a>. As a Design-Researcher, I co-create user centered products and services through design-research, strategic partnerships and project management. My projects focus on improving democracy and healthcare, with a focus on participatory design.
-Feel free to contact me  <a href="http://twitter.com/rebeckybot">@rebeckybot</a> or by <a href="mailto:rem23@uw.edu">email</a></p>.
+Feel free to contact me  <a href="http://twitter.com/rebeckybot">@rebeckybot</a> or by <a href="mailto:rem23@uw.edu">email.</a> </p>.
 ---
 
 ### Category Name 1 
